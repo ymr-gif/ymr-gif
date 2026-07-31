@@ -14,7 +14,7 @@ Developer building things and figuring it out as I go.
 
 ### Projects
 
-- [ai-workspace](https://github.com/ymr-gif/ai-workspace) — self-hosted AI chat platform with multi-model routing, hybrid RAG, and graph memory.
+- [Eidetic](https://github.com/ymr-gif/eidetic) — self-hosted, multi-user AI memory platform: multi-model routing, hybrid RAG, persistent graph memory, and an agent tool loop. **[Live demo](https://eidetic.taile6aad6.ts.net)** — log in with `demo` / `eidetic-demo`.
 - [license-tracking-system](https://github.com/ymr-gif/license-tracking-system) — dashboard for tracking regulatory licensing applications across companies.
 - [Arduino-LCD-Claude-Code-Monitor](https://github.com/ymr-gif/Arduino-LCD-Claude-Code-Monitor) — real-time 16×2 LCD status display for Claude Code.
 
