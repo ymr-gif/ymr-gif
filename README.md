@@ -1,8 +1,8 @@
 <h1 align="center">Yamier Zane</h1>
 
 <p align="center">
-  Developer building things and figuring it out as I go.<br>
-  Self-hosted AI · computer vision on real hardware · presentation engines that run live.
+  Grade 12 student in Iloilo, Philippines. I build and self-host what I use — an AI memory
+  platform, an NFC-and-face attendance system, and WebGL decks that drive live presentations.
 </p>
 
 <p align="center">
@@ -98,3 +98,4 @@ An MCP server exposing courses, coursework, materials, announcements, rosters an
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-@ymr--gif-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ymr-gif)
+[![Email](https://img.shields.io/badge/Email-cabucosyamierzane%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cabucosyamierzane@gmail.com)
