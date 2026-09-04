@@ -47,7 +47,7 @@ The research proposal defense for the attendance system, built as a web presenta
 
 A live-presented advocacy deck on campus extremism. One MassKara mask of 17,000 points, morphing through 26 beats, driven entirely by an operator's keyboard. The speech, captions and staging cues all live in a single manifest file.
 
-### [Arduino LCD Claude Code Monitor](https://github.com/ymr-gif/Arduino-LCD-Claude-Code-Monitor) — AI status, in hardware
+### [Arduino LCD Status Monitor](https://github.com/ymr-gif/Arduino-LCD-Claude-Code-Monitor) — AI status, in hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
