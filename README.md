@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://github.com/ymr-gif?tab=repositories"><img src="https://img.shields.io/badge/repos-public-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Repos"></a>
   <a href="https://eidetic.work"><img src="https://img.shields.io/badge/live_demo-eidetic.work-2ea043?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"></a>
-  <img src="https://komarev.com/ghpvc/?username=ymr-gif&style=flat-square&color=6e7681" alt="Profile views">
 </p>
 
 ---
