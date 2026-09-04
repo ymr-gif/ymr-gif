@@ -95,15 +95,6 @@ An MCP server exposing courses, coursework, materials, announcements, rosters an
 
 ---
 
-## Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ymr-gif&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymr-gif&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages">
-</p>
-
----
-
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-@ymr--gif-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ymr-gif)
