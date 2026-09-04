@@ -47,12 +47,6 @@ The research proposal defense for the attendance system, built as a web presenta
 
 A live-presented advocacy deck on campus extremism. One MassKara mask of 17,000 points, morphing through 26 beats, driven entirely by an operator's keyboard. The speech, captions and staging cues all live in a single manifest file.
 
-### [Arduino LCD Status Monitor](https://github.com/ymr-gif/Arduino-LCD-Claude-Code-Monitor) — AI status, in hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-A 16×2 LCD that shows what Claude Code is doing at a glance — 15 states, a scrolling ticker, live token counts, idle dimming. Observation is entirely external: the tool itself is never modified.
-
 ### [classroom-mcp-server](https://github.com/ymr-gif/classroom-mcp-server) — Claude ↔ Google Classroom
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
