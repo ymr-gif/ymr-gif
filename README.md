@@ -2,7 +2,7 @@
 
 <p align="center">
   Grade 12 student in Iloilo, Philippines. I build and self-host what I use: an AI memory
-  platform, an NFC-and-face attendance system, and WebGL decks that drive live presentations.
+  platform, an NFC-and-face attendance system, and a WebGL deck that carried its research defense.
 </p>
 
 <p align="center">
@@ -41,14 +41,6 @@ instead of slides: 3D model deconstruction, scripted animation beats, keyboard-d
 
 - Watch it: [ymr-gif.github.io/dual-factor-attendance-defense](https://ymr-gif.github.io/dual-factor-attendance-defense/)
 - anime.js v4, Three.js
-
-### [Tanglaw sa Dilim](https://github.com/ymr-gif/tanglaw-sa-dilim)
-
-A live-presented advocacy deck on campus extremism. One MassKara mask of 17,000 points,
-morphing through 26 beats, driven entirely by an operator's keyboard. The speech, captions
-and staging cues all live in a single manifest file.
-
-- Three.js, anime.js, Vite
 
 ---
 
