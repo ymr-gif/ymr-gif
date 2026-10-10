@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://eidetic.work">Live demo: eidetic.work</a> ·
   <a href="https://github.com/ymr-gif?tab=repositories">All repos</a> ·
-  <a href="mailto:cabucosyamierzane@gmail.com">Email</a>
+  <a href="mailto:yamier@eidetic.work">Email</a>
 </p>
 
 ---
@@ -46,4 +46,4 @@ instead of slides: 3D model deconstruction, scripted animation beats, keyboard-d
 
 ## Contact
 
-[cabucosyamierzane@gmail.com](mailto:cabucosyamierzane@gmail.com)
+[yamier@eidetic.work](mailto:yamier@eidetic.work)
